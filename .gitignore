@@ -1,0 +1,32 @@
+# Directorios generados durante la compilación
+bin/
+target/
+
+# Configuraciones específicas de Eclipse
+.settings/
+.metadata/
+
+# Archivos específicos de Eclipse
+.project
+.classpath
+
+# Archivos específicos de macOS
+.DS_Store
+
+# Archivos de contraseñas y credenciales
+config/credenciales.txt  # Ejemplo de un archivo de credenciales, asegúrate de mantener esto fuera del control de versiones
+
+# Directorio de archivos generados automáticamente
+generated/
+
+# Directorio de archivos de salida de la base de datos
+db_output/
+
+# Archivos específicos de IntelliJ IDEA
+.idea/
+
+# Archivos de configuración específicos de NetBeans
+nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
